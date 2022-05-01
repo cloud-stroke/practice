@@ -1,6 +1,5 @@
 counter = 0
 import time
-import time
 import sys
 
 def delay_print(s):
